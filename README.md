@@ -5,6 +5,8 @@
 
 ---
 
-📧 Email     : jeongjoonmo.dev@gmail.com  
-🗂️ Portfolio : https://13months.netlify.app  
+<pre>
+📧 Email     : jeongjoonmo.dev@gmail.com
+🗂️ Portfolio : https://13months.netlify.app
 📝 Blog      : https://13months.tistory.com
+</pre>
