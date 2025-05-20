@@ -3,7 +3,10 @@
 > Firmly believe that clear and effective communication
 > is the foundation of successful collaboration.
 
-### Contact
+---
+
+Contact
+
 - Email: jeongjoonmo.dev@gmail.com
 - Portfolio: https://13months.netlify.app
 - Blog: https://13months.tistory.com 
