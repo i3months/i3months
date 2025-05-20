@@ -5,8 +5,17 @@
 
 ---
 
-<pre>
-📧 Email     : jeongjoonmo.dev@gmail.com
-🗂️ Portfolio : https://13months.netlify.app
-📝 Blog      : https://13months.tistory.com
-</pre>
+<table>
+  <tr>
+    <td>📧 Email</td>
+    <td>: <a href="mailto:jeongjoonmo.dev@gmail.com">jeongjoonmo.dev@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>🗂️ Portfolio</td>
+    <td>: <a href="https://13months.netlify.app">13months.netlify.app</a></td>
+  </tr>
+  <tr>
+    <td>📝 Blog</td>
+    <td>: <a href="https://13months.tistory.com">13months.tistory.com</a></td>
+  </tr>
+</table>
