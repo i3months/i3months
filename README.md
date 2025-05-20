@@ -5,17 +5,9 @@
 
 ---
 
-<table>
-  <tr>
-    <td>📧 Email</td>
-    <td>: <a href="mailto:jeongjoonmo.dev@gmail.com">jeongjoonmo.dev@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td>🗂️ Portfolio</td>
-    <td>: <a href="https://13months.netlify.app">13months.netlify.app</a></td>
-  </tr>
-  <tr>
-    <td>📝 Blog</td>
-    <td>: <a href="https://13months.tistory.com">13months.tistory.com</a></td>
-  </tr>
-</table>
+<span style="font-family: monospace;">
+📧 Email     : <a href="mailto:jeongjoonmo.dev@gmail.com">jeongjoonmo.dev@gmail.com</a><br>
+🗂️ Portfolio : <a href="https://13months.netlify.app">13months.netlify.app</a><br>
+📝 Blog      : <a href="https://13months.tistory.com">13months.tistory.com</a>
+</span>
+
