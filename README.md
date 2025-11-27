@@ -6,7 +6,5 @@
 ---
 
 <pre>
-📧 Email     : <a href="mailto:jeongjoonmo.dev@gmail.com">jeongjoonmo.dev@gmail.com</a><br>
-🗂️ Portfolio : <a href="https://13months.netlify.app/en">13months.netlify.app</a><br>
-📝 Blog      : <a href="https://13months.tistory.com">13months.tistory.com</a>  
+🧩 LandingPage : <a href="https://i3months.com/">i3months.com</a><br>
 </pre>
